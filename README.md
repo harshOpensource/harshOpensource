@@ -9,8 +9,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshOpensource) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hejazizo@ualberta.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-bardhan-ai) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshopensource@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshbardhan.vercel.app)](https://harshbardhan.vercel.app)
 [![Github](https://img.shields.io/github/followers/harshOpensource?label=Follow&style=social)](https://github.com/harshOpensource)
 
@@ -25,22 +25,23 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,postgres,solidity,prisma,graphql,java,nextjs,mysql,flask" /><br>
 </div>
 
+</br>
+</br>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshOpensource/harshOpensource/output/snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
+# 📊 GitHub Stats ⚡:
+
+
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshOpensource&theme=radical&hide_border=true)
+
 
 <br>
 
-# 📊 GitHub Stats ⚡:
+
 ![](https://github-readme-stats.vercel.app/api?username=harshOpensource&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshOpensource&theme=dark&hide_border=false)<br/>
